@@ -12,6 +12,12 @@ A web-based system to digitize hostel administration: student registration, room
 | 2 | Test Plan (IEEE 829), incl. 10 test cases and security validation | [`docs/Test_Plan.md`](docs/Test_Plan.md) |
 | 3 | Software Architecture & Design Specification (IEEE 1016) | [`docs/Architecture_Design.md`](docs/Architecture_Design.md) |
 
+## Part-2 Deliverables
+
+| # | Deliverable | Document |
+|---|---|---|
+| 1 | Product Backlog & Sprint Plan (20 issues from SRS FR/NFR, story points, 2 sprints) | [`docs/Backlog.md`](docs/Backlog.md) · [Issues](https://github.com/shashankv2303/PES1UG24CS435-se-miniproject/issues) · [Milestones](https://github.com/shashankv2303/PES1UG24CS435-se-miniproject/milestones) |
+
 ## Diagrams
 
 Rendered UML diagrams live in [`docs/diagrams/`](docs/diagrams/); their editable PlantUML sources are in [`docs/diagrams/src/`](docs/diagrams/src/).
